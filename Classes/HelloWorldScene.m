@@ -23,6 +23,8 @@
 	// add layer as a child to scene
 	[scene addChild: layer];
 	
+    //so can i ?
+    
 	// return the scene
 	return scene;
 }
