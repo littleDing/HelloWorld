@@ -373,10 +373,10 @@
 			</array>
 		</dict>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>PrimaryDocumentTimestamp</string>
-		<string>{497, 649}</string>
-		<real>332499099.16932601</real>
+		<string>PrimaryDocumentVisibleCharacterRange</string>
+		<real>332499124.43596399</real>
+		<string>{7478, 677}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1376,11 +1376,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>38</integer>
+					<integer>37</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>37</integer>
+					<integer>38</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -1412,7 +1412,7 @@
 			</array>
 		</dict>
 		<string>HideAllIssues</string>
-		<real>332499099.16923302</real>
+		<real>332499124.43587798</real>
 		<string>{542, 971}</string>
 		<string>{836, 0}</string>
 		<integer>0</integer>
@@ -2616,11 +2616,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>38</integer>
+					<integer>37</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>37</integer>
+					<integer>38</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -2651,7 +2651,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>332499099.17085898</real>
+		<real>332499124.43761301</real>
 		<string>{542, 971}</string>
 		<string>{836, 0}</string>
 		<string>-init</string>
